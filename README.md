@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning-Project
 # Classifying Emotions of Labeled Spotify Songs for Improved Music Recommendation
 Epitech Summer Program 2023 Project 2
 
